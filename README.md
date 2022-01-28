@@ -6,7 +6,7 @@ I am a Ph.D. student at the [NLP Lab](https://ov-research.uwaterloo.ca/NLP_lab.h
 - I love [art](https://demfier.github.io/art/) :art:
 - I (religiously) watch anime (いけ、なると!) :godmode:
 - I'm learning Japanese :jp: and French :fr:
-- I'm learning the piano :musical_keyboard: (ahem, ahem, a little paused right now)
+- I'm learning the piano :musical_keyboard: (ahem, ahem, a little paused right now, this endeavour is)
 - I'm vegan :cow2:
 
 <!--
