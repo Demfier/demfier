@@ -5,8 +5,8 @@ I am a Ph.D. student at the [NLP Lab](https://ov-research.uwaterloo.ca/NLP_lab.h
 ⚡ Fun facts:
 - I love [art](https://demfier.github.io/art/) :art:
 - I'm learning Japanese :jp: and French :fr:
+- I'm also learning the piano :musical_keyboard:
 - I (used to) religiously watch anime (いけ、なると!) :godmode:
-- I'm also learning the piano :musical_keyboard: (ahem, ahem, a little paused right now, this endeavour is)
 
 <!--
 **Demfier/demfier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
